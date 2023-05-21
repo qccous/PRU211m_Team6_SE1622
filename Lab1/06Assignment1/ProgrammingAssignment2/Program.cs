@@ -24,37 +24,45 @@ namespace ProgrammingAssignment2
         /// <param name="args">command-line args</param>
         static void Main(string[] args)
         {
-            // loop while there's more input
-            string input = Console.ReadLine();
-            while (input[0] != 'q')
+            try
             {
-                // extract point coordinates from string
-                GetInputValuesFromString(input);
+                // loop while there's more input
+                string input = Console.ReadLine();
+                while (input[0] != 'q')
+                {
+                    // extract point coordinates from string
+                    GetInputValuesFromString(input);
 
-                // Add your code between this comment
-                // and the comment below. You can of
-                // course add more space between the
-                // comments as needed
+                    // Add your code between this comment
+                    // and the comment below. You can of
+                    // course add more space between the
+                    // comments as needed
 
-                // Calculate Distance between 2 point
-                // deltaX = point2X - point1X
-                // deltaY = point2Y - point1Y
-                float distance = (float)Math.Sqrt((Math.Pow(point2X - point1X, 2) + Math.Pow(point2Y - point1Y, 2)));
+                    // Calculate Distance between 2 point
+                    // deltaX = point2X - point1X
+                    // deltaY = point2Y - point1Y
+                    float distance = (float)Math.Sqrt((Math.Pow(point2X - point1X, 2) + Math.Pow(point2Y - point1Y, 2)));
 
-                // Calculate the angle by radian using tan
-                double angle = (float)Math.Atan2(point2Y - point1Y, point2X - point1X);
+                    // Calculate the angle by radian using tan
+                    double angle = (float)Math.Atan2(point2Y - point1Y, point2X - point1X);
 
-                // Convert from radian to degree
-                angle *= (float)180 / Math.PI;
+                    // Convert from radian to degree
+                    angle *= (float)180 / Math.PI;
 
-                Console.WriteLine((float)Math.Round(distance, 6) + " " + (float)Math.Round(angle, 5));
+                    Console.WriteLine((float)Math.Round(distance, 6) + " " + (float)Math.Round(angle, 5));
 
-                Console.WriteLine();
+                    Console.WriteLine();
 
-                // Don't add or modify any code below
-                // this comment
-                input = Console.ReadLine();
+                    // Don't add or modify any code below
+                    // this comment
+                    input = Console.ReadLine();
+                }
             }
+            catch (Exception)
+            {
+                Console.WriteLine("Press enter...");
+            }
+
         }
 
         /// <summary>

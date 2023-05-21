@@ -1,0 +1,16 @@
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.exe
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.deps.json
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.runtimeconfig.json
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.runtimeconfig.dev.json
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.dll
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\bin\Debug\net5.0\ProgrammingAssignment2.pdb
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.csproj.AssemblyReference.cache
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.AssemblyInfoInputs.cache
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.AssemblyInfo.cs
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.dll
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\refint\ProgrammingAssignment2.dll
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.pdb
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ProgrammingAssignment2.genruntimeconfig.cache
+G:\FPT\Semester 7\PRU211m_Team6_SE1622\Lab1\06Assignment1\ProgrammingAssignment2\obj\Debug\net5.0\ref\ProgrammingAssignment2.dll
